@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/martin/Desktop/C#/02 Metodos y estructuras de control/01 Metodos/01 Metodos.csproj": {}
+  },
+  "projects": {
+    "/home/martin/Desktop/C#/02 Metodos y estructuras de control/01 Metodos/01 Metodos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/martin/Desktop/C#/02 Metodos y estructuras de control/01 Metodos/01 Metodos.csproj",
+        "projectName": "01 Metodos",
+        "projectPath": "/home/martin/Desktop/C#/02 Metodos y estructuras de control/01 Metodos/01 Metodos.csproj",
+        "packagesPath": "/home/martin/.nuget/packages/",
+        "outputPath": "/home/martin/Desktop/C#/02 Metodos y estructuras de control/01 Metodos/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/martin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
